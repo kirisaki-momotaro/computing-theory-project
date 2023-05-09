@@ -1,0 +1,6 @@
+CODE USED IN THE EXAMPLES IS TAKEN PARTIALLY OR AS A WHOLE FROM THE LAB MATERIALS ON ECLASS 
+correct1:
+	compiles and runs us it is supposed to.
+
+correct2:
+	.c compiles but at the time of run causes segmantation error.It is used only to 		demonstrate how the comp datatype gets compiled. bookstore.th was used as a base. 		
